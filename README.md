@@ -49,4 +49,8 @@ However, these two conclusions may not be accurate and cohesive since some addit
 - Analysis of Descriptive Statistics( like Mean, Median and IQR)
 ## Additional Analysis
 The table below is the descriptive statistics on Plays subcategory.
-![table]()
+![table](https://github.com/cffhr99/Module1-Challenge/blob/main/resources/Screen%20Shot%202021-06-30%20at%2018.33.39.png?raw=true)
+
+#### Observations:
+1) There are more than half Plays campaigns between 21 and 31 days.
+2) The plays campaigns, which are between 11 tp 21 days, have the highest percentage of success.

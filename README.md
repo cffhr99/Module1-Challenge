@@ -33,4 +33,6 @@ The graph below is the line plot about the percentage of successful, failed and 
 #### Observations:
 - There are 84% of the Plays campaigns with a goal of less than $10,000. 
 - Also, there are 75.81% of the Plays campaigns to success in finishing the goal which is less than $1,000.
-- The second highest percentage of success is at the Pl
+- The second highest percentage of success, which is 72.66%, is at the Plays campaigns with a goal between $1,000 and $4,999.
+- Then, the line plot of success becomes decreasing until the goals\` ranges are from   $35,000 to $39,999 and from $40,000 to $44,999.
+- From overall, successful line and failed line are symmetric. And the highest two failed ranges are from $25,000 to $29,999 and from $45,000 to $49,999.

@@ -10,4 +10,7 @@ In this analysis, there are two questions need to finish:
 
 Before analysis, there are some definitions of different points for the dataset:
 - *A Kickstarter campaign* is a row in the spreadsheet with a unique ID and other information.
-- *Close to the goal* means that a campaign has 90% or more Funding.
+- *Close to the goal* means that a campaign has 90% or more funds.
+- *Length of a campaign* is the different time between *the Date Ended Conversion* and *the Date Created Conversion*.
+- *Short term* means the length of a campaign is shorter than 1st quartile.
+- *Success* means that a campaign has 100% funds or more. Otherwise is *Failure*.

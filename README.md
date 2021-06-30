@@ -1,1 +1,1 @@
-# Module1-Challenge
+# Module 1: An Analysis of Kickstarter Campaigns

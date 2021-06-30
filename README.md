@@ -6,4 +6,4 @@ Here is the excel spreadsheet link: [Kickstarter.xlsx](https://github.com/cffhr9
 ## Introduction
 In this analysis, there are two questions need to finish:
 1. Does the length of time contribute to the success or failure for a campaign?
-2. 2. How many Kickstarter campaigns were able to be close to their goals in a short term or long term?
+2. How many Kickstarter campaigns were able to be close to their goals in a short term or long term?

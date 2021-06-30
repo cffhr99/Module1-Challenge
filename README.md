@@ -31,10 +31,20 @@ Louise needs to consider launch her campaign in May or June to get a higher chan
 The graph below is the line plot about the percentage of successful, failed and canceled campaigns based on their goals.
 ![Outcomes vs Goals](https://github.com/cffhr99/Module1-Challenge/blob/main/resources/Outcomes_vs_Goals.png?raw=true)
 #### Observations:
-- There are 84% of the Plays campaigns with a goal of less than $10,000. 
-- Also, there are 75.81% of the Plays campaigns to success in finishing the goal which is less than $1,000.
-- The second highest percentage of success, which is 72.66%, is at the Plays campaigns with a goal between $1,000 and $4,999.
-- Then, the line plot of success becomes decreasing until the goals\` ranges are from   $35,000 to $39,999 and from $40,000 to $44,999.
-- From overall, successful line and failed line are symmetric. And the highest two failed ranges are from $25,000 to $29,999 and from $45,000 to $49,999.
+1) There are 84% of the Plays campaigns with a goal of less than $10,000. 
+2) Also, there are 75.81% of the Plays campaigns to success in finishing the goal which is less than $1,000.
+3) The second highest percentage of success, which is 72.66%, is at the Plays campaigns with a goal between $1,000 and $4,999.
+4) Then, the line plot of success becomes decreasing until the goals\` ranges are from   $35,000 to $39,999 and from $40,000 to $44,999.
+5) From overall, successful line and failed line are symmetric. And the highest two failed ranges are from $25,000 to $29,999 and from $45,000 to $49,999.
 #### Suggestions:
 Louise needs to consider to set the fundraising goal below $4,999 to have a higher chance of success.
+
+## Conclusion:
+According to these two analysis above, there are two suggestions to Louise:
+- Launch the campaign in May or Jun.
+- Set the fundraising goal below $4,999.
+
+However, these two conclusions may not be accurate and cohesive since some additional analysis are needed to support the conclusions. For instance:
+- Analysis of Outcomes Based on Length of Campaign
+- Analysis of Descriptive Statistics( like Mean, Median and IQR)
+## Additional Analysis

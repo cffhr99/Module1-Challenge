@@ -30,3 +30,7 @@ Louise needs to consider launch her campaign in May or June to get a higher chan
 ### Part 2: Analyzing Outcomes Based on Goals for Plays Subcategory
 The graph below is the line plot about the percentage of successful, failed and canceled campaigns based on their goals.
 ![Outcomes vs Goals](https://github.com/cffhr99/Module1-Challenge/blob/main/resources/Outcomes_vs_Goals.png?raw=true)
+#### Observations:
+- There are 84% of the Plays campaigns with a goal of less than $10,000. 
+- Also, there are 75.81% of the Plays campaigns to success in finishing the goal which is less than $1,000.
+- The second highest percentage of success is at the Pl

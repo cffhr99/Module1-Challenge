@@ -36,3 +36,5 @@ The graph below is the line plot about the percentage of successful, failed and 
 - The second highest percentage of success, which is 72.66%, is at the Plays campaigns with a goal between $1,000 and $4,999.
 - Then, the line plot of success becomes decreasing until the goals\` ranges are from   $35,000 to $39,999 and from $40,000 to $44,999.
 - From overall, successful line and failed line are symmetric. And the highest two failed ranges are from $25,000 to $29,999 and from $45,000 to $49,999.
+#### Suggestions:
+Louise needs to consider to set the fundraising goal below $4,999 to have a higher chance of success.

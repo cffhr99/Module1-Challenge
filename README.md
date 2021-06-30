@@ -48,3 +48,5 @@ However, these two conclusions may not be accurate and cohesive since some addit
 - Analysis of Outcomes Based on Length of Campaign
 - Analysis of Descriptive Statistics( like Mean, Median and IQR)
 ## Additional Analysis
+The table below is the descriptive statistics on Plays subcategory.
+![table]()

@@ -57,4 +57,4 @@ The table below is the descriptive statistics on Plays subcategory.
 3) Based on the data point definition, there are 179 Plays campaigns out of 1066 total Plays campaigns to be close or finish their goals in a short term.
 
 #### Additional Suggestions:
-- Louise needs 
+- Louise needs to consider the campaign between 11 to 21 days to maximal the chance of success.

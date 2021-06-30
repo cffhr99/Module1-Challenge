@@ -54,3 +54,7 @@ The table below is the descriptive statistics on Plays subcategory.
 #### Observations:
 1) There are more than half Plays campaigns between 21 and 31 days.
 2) The plays campaigns, which are between 11 tp 21 days, have the highest percentage of success.
+3) Based on the data point definition, there are 179 Plays campaigns out of 1066 total Plays campaigns to be close or finish their goals in a short term.
+
+#### Additional Suggestions:
+- Louise needs 

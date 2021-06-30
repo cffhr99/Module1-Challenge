@@ -14,3 +14,8 @@ Before analysis, there are some definitions of different points for the dataset:
 - *Length of a campaign* is the different time between *the Date Ended Conversion* and *the Date Created Conversion*.
 - *Short term* means the length of a campaign is shorter than 1st quartile.
 - *Success* means that a campaign has 100% funds or more. Otherwise is *Failure*.
+
+## Analysis
+### Part 1. Analyzing Outcomes Based On Launch Date for Theater Parent Category
+The graph below is the line plot about the percentage of successful, failed and canceled campaigns based on their goals.
+![Outcomes on Launch Date for Theather](https://github.com/cffhr99/Module1-Challenge/blob/main/resources/Theater_Outcomes_vs_Launch.png?raw=true)
